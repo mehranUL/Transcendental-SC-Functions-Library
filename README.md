@@ -1,7 +1,7 @@
 This repository is dedicated to our work under review in IEEE Transactions on Circuits and Systems I: Regular Papers.
 (LQ-SC: Lightweight yet Accurate Design of Non-Linear Functions with Quasi-Random Stochastic Computing)
 
-Contributors: Ph.D. Student. Mehran Shoushatri Moghadam, Asst.Prof. Sercan Aygun, and Asst.Prof. M.Hassan Najafi
+Contributors: Mehran Shoushatri Moghadam (Ph.D. Student), Asst.Prof. Sercan Aygun, and Asst.Prof. M.Hassan Najafi
 Further info: moghadam@case.edu
 
 This work introduces a hardware-efficient design methodology for low-cost implementation of trigonometric and non-linear functions using Stochastic Computing (SC). 
