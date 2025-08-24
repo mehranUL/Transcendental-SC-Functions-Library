@@ -1,7 +1,7 @@
 This repository is dedicated to our work under review in IEEE Transactions on Emerging Topics in Computing.
 (TranSC: Transcendental Functions with Quasi-Random Stochastic Computing)
 
-Contributors: Mehran Moghadam (Ph.D. Candidate), Asst. Prof. Sercan Aygun, and Assoc. Prof. M.Hassan Najafi
+//Contributors: Mehran Moghadam (Ph.D. Candidate), Asst. Prof. Sercan Aygun, and Assoc. Prof. M.Hassan Najafi
 Further info: moghadam@case.edu
 
 This work introduces a hardware-efficient design methodology for low-cost implementation of transcendental functions using Stochastic Computing (SC). 
