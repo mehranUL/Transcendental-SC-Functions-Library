@@ -1,4 +1,4 @@
-This repository is dedicated to our work under review in IEEE Transactions on Emerging Topics in Computing.
-(TranSC: Transcendental Functions with Quasi-Random Stochastic Computing)
+This repository is dedicated to our work under review in IEEE Journal on Emerging and Selected Topics in Circuits and Systems.
+(TranSC: Hardware-Aware Design of Transcendental Functions Using Stochastic Logic)
 
 
