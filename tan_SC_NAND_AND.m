@@ -1,4 +1,3 @@
-
 clear
 tic
 %for jj = 1:50
